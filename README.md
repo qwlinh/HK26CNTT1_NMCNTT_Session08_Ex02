@@ -12,14 +12,6 @@
 
   MỘT FILE .MD CHỨA ĐẦY ĐỦ KHỐI CODE, BẲNG SO SÁNH VÀ MỘT TASK LIST KIỂM TRA TIẾN ĐỘ CÀI ĐẶT LÀ
 
-## 1. Cấu hình môi trường & Biến hệ thống
-
-Trước khi chạy ta cần cho Terminal chạy dòng lệnh này:
-
-```bash
-pip install RPi.GPIO adafruit-circuitpython-dht
-```
-
 ## Khối code
 
 ```
